@@ -15,6 +15,7 @@
 		6E3D2B482A0B29C600FBBA06 /* PracticeGitUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E3D2B472A0B29C600FBBA06 /* PracticeGitUITests.swift */; };
 		6E3D2B4A2A0B29C600FBBA06 /* PracticeGitUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E3D2B492A0B29C600FBBA06 /* PracticeGitUITestsLaunchTests.swift */; };
 		6E3D2B5D2A0B3F5C00FBBA06 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E3D2B5C2A0B3F5C00FBBA06 /* File.swift */; };
+		6E3D2B5F2A0B40B500FBBA06 /* SwiftUIhahaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E3D2B5E2A0B40B500FBBA06 /* SwiftUIhahaView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		6E3D2B472A0B29C600FBBA06 /* PracticeGitUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeGitUITests.swift; sourceTree = "<group>"; };
 		6E3D2B492A0B29C600FBBA06 /* PracticeGitUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeGitUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		6E3D2B5C2A0B3F5C00FBBA06 /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = File.swift; path = PracticeGit/File.swift; sourceTree = "<group>"; };
+		6E3D2B5E2A0B40B500FBBA06 /* SwiftUIhahaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIhahaView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 			isa = PBXGroup;
 			children = (
 				6E3D2B5C2A0B3F5C00FBBA06 /* File.swift */,
+				6E3D2B5E2A0B40B500FBBA06 /* SwiftUIhahaView.swift */,
 				6E3D2B2B2A0B29C500FBBA06 /* PracticeGit */,
 				6E3D2B3C2A0B29C600FBBA06 /* PracticeGitTests */,
 				6E3D2B462A0B29C600FBBA06 /* PracticeGitUITests */,
@@ -260,6 +263,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6E3D2B5F2A0B40B500FBBA06 /* SwiftUIhahaView.swift in Sources */,
 				6E3D2B2F2A0B29C500FBBA06 /* ContentView.swift in Sources */,
 				6E3D2B5D2A0B3F5C00FBBA06 /* File.swift in Sources */,
 				6E3D2B2D2A0B29C500FBBA06 /* PracticeGitApp.swift in Sources */,
