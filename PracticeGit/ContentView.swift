@@ -17,6 +17,8 @@ struct ContentView: View {
             Text("Hi jewony!")
             Text("Hi Erum")
             Text("Hello Muji")
+            Text("Hello Jeongpyo")
+            
                 .foregroundColor(.pink)
         }
         .padding()
