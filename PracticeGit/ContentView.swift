@@ -14,8 +14,8 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
             Text("Hello, world!")
-            Text("Hello jewony!")
-            Text("Hello Erum")
+            Text("Hi jewony!")
+            Text("Hi Erum")
             Text("Hello Muji")
                 .foregroundColor(.pink)
         }
